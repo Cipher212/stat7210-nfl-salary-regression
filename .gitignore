@@ -1,0 +1,6 @@
+.RData
+.Rhistory
+.Rproj.user/
+*.Rproj
+Airline_Delay_Cause.csv
+*.sqlite
